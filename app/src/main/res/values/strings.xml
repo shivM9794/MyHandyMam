@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyHandyMan</string>
+    <string name="disclaimer_txt">No responsibility disclaimers limit your liability for damages.\nViews expressed disclaimers allow you to distance yourself from others\' opinions.\nInvestment disclaimers state that you take no responsibility for how others act on your advice.</string>
+    <string name="reschedule_or_cancel">To Reschedule or Cancel <font color='#FF0000'>Click Here</font></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="address">107,239 Bank Enclave, Geeta Colony, New\nDelhi, Delhi 110092, India, Landmark : NA,\nOptional Instruction : NA</string>
+    <string name="time">Monday, 2nd Aug, 21 at 2:30 PM</string>
+    <string name="safety">Safety equipments background verification\ntraining of partners</string>
+    <string name="cancel">Insted of cancel please reschedule</string>
+    <string name="hired">Hired someone else</string>
+    <string name="service">Concerned about service hygiene</string>
+    <string name="service_not">Service not required at the booked time</string>
+    <string name="society">My society/buildings has restricted entry of\noutsiders</string>
+    <string name="professional">Professional not assigned</string>
+    <string name="placed">Placed the request by mistake</string>
+    <string name="others">Others</string>
+    <string name="terms">By clicking Save, I agree to <font color='#FF000000'>Terms  &amp; Conditions</font></string>
+    <string name="signUp">By clicking SignUp, I agree to <font color='#FF000000'>Terms  &amp; Conditions</font></string>
+
+<!--    <string name="copy_right" translatable="false">Copyrights © %1$d</string>-->
+</resources>

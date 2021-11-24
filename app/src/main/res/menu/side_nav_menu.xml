@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group  android:checkableBehavior="none"
+        android:id="@+id/group9">
+        <item
+            android:id="@+id/help_centre"
+            android:title="Help Centre"
+            android:icon="@drawable/ic_sms"/>
+    </group>
+
+    <group  android:checkableBehavior="none"
+    android:id="@+id/group1">
+        <item
+            android:id="@+id/partner"
+            android:title="Register As A Partner"
+            android:icon="@drawable/ic_registration"/>
+    </group>
+
+    <group android:checkableBehavior="none"
+        android:id="@+id/group2">
+        <item
+            android:id="@+id/about_second_warranty"
+            android:title="About SW"
+            android:icon="@drawable/ic_info"/>
+    </group>
+
+    <group android:checkableBehavior="none"
+        android:id="@+id/group3">
+        <item
+            android:id="@+id/share_second_warranty"
+            android:title="Share App"
+            android:icon="@drawable/ic_share"/>
+    </group>
+
+<!--    <group android:checkableBehavior="none"-->
+<!--        android:id="@+id/group4">-->
+<!--        <item-->
+<!--            android:id="@+id/wallet_second_warranty"-->
+<!--            android:title="My Wallet"-->
+<!--            android:icon="@drawable/ic_wallet"/>-->
+<!--    </group>-->
+
+    <group android:checkableBehavior="none"
+        android:id="@+id/group5">
+        <item
+            android:id="@+id/schedule_second_warranty"
+            android:title="Schedule Booking"
+            android:icon="@drawable/ic_book"/>
+    </group>
+
+    <group android:checkableBehavior="none"
+        android:id="@+id/group6">
+        <item
+            android:id="@+id/rate_second_warranty"
+            android:title="Rate Second warranty"
+            android:icon="@drawable/ic_rate"/>
+    </group>
+
+<!--    <group android:checkableBehavior="none"-->
+<!--        android:id="@+id/group7">-->
+<!--        <item-->
+<!--            android:id="@+id/payment_second_warranty"-->
+<!--            android:title="Payment Options"-->
+<!--            android:icon="@drawable/ic_wallet"/>-->
+<!--    </group>-->
+
+    <group android:checkableBehavior="none"
+        android:id="@+id/group8">
+        <item
+            android:id="@+id/setting_second_warranty"
+            android:title="Settings"
+            android:icon="@drawable/ic_settings"/>
+    </group>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</menu>

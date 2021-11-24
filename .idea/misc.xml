@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/WELCOME/Desktop/MYHM/SecondWarranty19/Second Warranty project/app/src/main/res/drawable/icon_selector.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/WELCOME/Desktop/MYHM/SecondWarranty19/Second Warranty project/app/src/main/res/drawable/login_btn_bg.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/WELCOME/Desktop/MYHM/SecondWarranty19/Second Warranty project/app/src/main/res/layout/activity_add_cart.xml" value="0.25" />
+        <entry key="..\:/Users/WELCOME/Desktop/MYHM/SecondWarranty19/Second Warranty project/app/src/main/res/layout/activity_dashboard.xml" value="0.25" />
+        <entry key="..\:/Users/WELCOME/Desktop/MYHM/SecondWarranty19/Second Warranty project/app/src/main/res/layout/activity_fan_installment.xml" value="0.25" />
+        <entry key="..\:/Users/WELCOME/Desktop/MYHM/SecondWarranty19/Second Warranty project/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/WELCOME/Desktop/MYHM/SecondWarranty19/Second Warranty project/app/src/main/res/layout/activity_maps.xml" value="0.25" />
+        <entry key="..\:/Users/WELCOME/Desktop/MYHM/SecondWarranty19/Second Warranty project/app/src/main/res/layout/adapter_service.xml" value="0.234375" />
+        <entry key="..\:/Users/WELCOME/Desktop/MYHM/SecondWarranty19/Second Warranty project/app/src/main/res/layout/bottom_style_sheet.xml" value="0.25" />
+        <entry key="..\:/Users/WELCOME/Desktop/MYHM/SecondWarranty19/Second Warranty project/app/src/main/res/layout/image_slider.xml" value="0.25" />
+        <entry key="..\:/Users/WELCOME/Desktop/MYHM/SecondWarranty19/Second Warranty project/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+        <entry key="..\:/Users/WELCOME/Desktop/SecondWarranty19/Second Warranty project/app/src/main/res/layout/activity_about_us.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/WELCOME/Desktop/SecondWarranty19/Second Warranty project/app/src/main/res/layout/activity_add_cart.xml" value="0.2328125" />
+        <entry key="..\:/Users/WELCOME/Desktop/SecondWarranty19/Second Warranty project/app/src/main/res/layout/activity_booking.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/WELCOME/Desktop/SecondWarranty19/Second Warranty project/app/src/main/res/layout/activity_dashboard.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/WELCOME/Desktop/SecondWarranty19/Second Warranty project/app/src/main/res/layout/activity_fan.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/WELCOME/Desktop/SecondWarranty19/Second Warranty project/app/src/main/res/layout/activity_fan_date_time.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/WELCOME/Desktop/SecondWarranty19/Second Warranty project/app/src/main/res/layout/activity_help_centre.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/WELCOME/Desktop/SecondWarranty19/Second Warranty project/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/WELCOME/Desktop/SecondWarranty19/Second Warranty project/app/src/main/res/layout/activity_main.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/WELCOME/Desktop/SecondWarranty19/Second Warranty project/app/src/main/res/layout/activity_payment.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/WELCOME/Desktop/SecondWarranty19/Second Warranty project/app/src/main/res/layout/activity_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/WELCOME/Desktop/SecondWarranty19/Second Warranty project/app/src/main/res/layout/activity_reset_password.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/WELCOME/Desktop/SecondWarranty19/Second Warranty project/app/src/main/res/layout/activity_set_new_password.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/WELCOME/Desktop/SecondWarranty19/Second Warranty project/app/src/main/res/layout/activity_sign_up.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/WELCOME/Desktop/SecondWarranty19/Second Warranty project/app/src/main/res/layout/adapter_service.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/WELCOME/Desktop/SecondWarranty19/Second Warranty project/app/src/main/res/layout/add_to_cart.xml" value="0.2328125" />
+        <entry key="..\:/Users/WELCOME/Desktop/SecondWarranty19/Second Warranty project/app/src/main/res/layout/booking_status.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/WELCOME/Desktop/SecondWarranty19/Second Warranty project/app/src/main/res/layout/bottom_style_sheet.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/WELCOME/Desktop/SecondWarranty19/Second Warranty project/app/src/main/res/layout/fragment_ftab1.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/WELCOME/Desktop/SecondWarranty19/Second Warranty project/app/src/main/res/layout/fragment_ftab2.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/WELCOME/Desktop/SecondWarranty19/Second Warranty project/app/src/main/res/layout/fragment_ftab3.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/WELCOME/Desktop/SecondWarranty19/Second Warranty project/app/src/main/res/layout/industry_appliances.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/WELCOME/Desktop/SecondWarranty19/Second Warranty project/app/src/main/res/layout/side_nav_header.xml" value="0.23854166666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
